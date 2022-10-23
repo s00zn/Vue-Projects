@@ -1,0 +1,7 @@
+{
+  "jobs" : [
+    { "title": "Manager", "id": 1, "short": "Manage all the things!", "details": "Some descriptive text about the job goes here." },
+    { "title": "Designer", "id": 2, "short": "Design all the things!", "details": "Some descriptive text about the job goes here." },
+    { "title": "Developer", "id": 3, "short": "Develop all the things!", "details": "Some descriptive text about the job goes here." }
+  ]
+}
